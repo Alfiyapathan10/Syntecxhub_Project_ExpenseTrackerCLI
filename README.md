@@ -79,3 +79,5 @@ Date filtering and monthly aggregation
 Basic data visualization
 
 Clean and structured Python coding practices
+
+![Image](https://github.com/user-attachments/assets/761f7f0a-2b9f-478f-8ccb-4c9b41a8b5e5)
