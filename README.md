@@ -17,10 +17,15 @@ This project was developed as part of an internship task.
 🚀 Features
 
 ✔ Add income and expense entries
+
 ✔ Store data persistently in a CSV file
+
 ✔ View monthly financial summary
+
 ✔ Export data to Excel/CSV
+
 ✔ Generate simple charts (PNG image files)
+
 ✔ Command-line interface (CLI based)
 
 🛠 Technologies Used
