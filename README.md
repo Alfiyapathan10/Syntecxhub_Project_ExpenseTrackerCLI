@@ -39,8 +39,11 @@ Matplotlib (for chart generation)
 Project Structure
 
 expense_tracker.py
+
 expenses.csv (auto-generated)
+
 monthly_summary.csv (generated)
+
 expense_chart.png (generated)
 
 📊 Functionalities
@@ -50,10 +53,12 @@ Enter Date (YYYY-MM-DD)
 Enter Category (Food, Travel, Salary, etc.)
 Enter Amount
 Select Type (Income / Expense)
+
 2️⃣ Monthly Summary
 Calculates total income
 Calculates total expenses
 Displays net balance
+
 3️⃣ Export Options
 Export summary to CSV
 Export data to Excel file (.xlsx)
@@ -62,8 +67,13 @@ Generate monthly expense chart (PNG image)
 🎯 Learning Outcomes
 
 This project demonstrates:
+
 CLI-based application development
+
 Working with CSV files
+
 Date filtering and monthly aggregation
+
 Basic data visualization
+
 Clean and structured Python coding practices
