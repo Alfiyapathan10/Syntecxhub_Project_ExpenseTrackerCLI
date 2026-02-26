@@ -36,7 +36,7 @@ Datetime module
 Pandas (for Excel export)
 Matplotlib (for chart generation)
 
-Project Structure
+📂 Project Structure
 
 expense_tracker.py
 
@@ -45,6 +45,7 @@ expenses.csv (auto-generated)
 monthly_summary.csv (generated)
 
 expense_chart.png (generated)
+
 
 📊 Functionalities
 
@@ -63,6 +64,7 @@ Displays net balance
 Export summary to CSV
 Export data to Excel file (.xlsx)
 Generate monthly expense chart (PNG image)
+
 
 🎯 Learning Outcomes
 
