@@ -1,7 +1,9 @@
 # Syntecxhub_Project_ExpenseTrackerCLI
 
  Expense Tracker CLI (Python)
+ 
 📌 Project Overview
+
 The Expense Tracker CLI is a command-line application built using Python that helps users record and manage their income and expenses efficiently.
 The project demonstrates practical implementation of:
 File handling (CSV)
